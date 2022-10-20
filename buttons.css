@@ -1,0 +1,18 @@
+button{
+	width:40%;
+	height:45px; 
+	background:#172035;
+	color:white;
+	font-size:2em;
+	border:none;
+}
+button:hover{
+	background:#09568d;
+	cursor: pointer;
+	color: black;
+}
+
+.sign-btns {
+	border-radius: 40% ;
+	width: 40%;
+}
